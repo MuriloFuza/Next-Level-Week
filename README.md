@@ -2,6 +2,6 @@
 
 ## NLW#4
 
- - 🚀Atualmente o Repo ainda só possoi os dados da Next Level Week #4 -- Trilha Node
+ - 🚀Atualmente o Repo ainda só possui os dados da Next Level Week #4 -- Trilha Node
  - 🚀Este Repo recebera a trilha de Node de todas as Next Level Weeks que estarei participando
  -->
