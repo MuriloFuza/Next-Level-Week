@@ -13,6 +13,11 @@ Código pertence a ROCKETSEAT INFORMAÇÃO E TECNOLOGIA LTDA
  </a> 
  
  - 🚀Atualmente o Repo ainda só possui os dados da Next Level Week #4 -- Trilha Node
- - 🚀Este Repo recebera a trilha de Node de todas as Next Level Weeks que estarei participando
+ - NodeJs
+ - TypeScipt <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="javascript"/> 
+ - Sqlite
+ - TypeORM
+ - VSCode
+ - 
  -->
 
