@@ -13,7 +13,7 @@ Código pertence a ROCKETSEAT INFORMAÇÃO E TECNOLOGIA LTDA
  </a> 
  
  - 🚀Atualmente o Repo ainda só possui os dados da Next Level Week #4 -- Trilha Node
- - <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" height="30" width="30" alt="nodejs"/>
+ - <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/>
  - <img src="https://simpleicons.org/icons/typescript.svg" height="30" width="30" alt="Typescript"/> 
  - <img src="https://simpleicons.org/icons/sqlite.svg" height="30" width="30" alt="SQlite"/> 
  - <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="30" width="30" alt="SQlite"/> 
