@@ -12,7 +12,7 @@ Código pertence a ROCKETSEAT INFORMAÇÃO E TECNOLOGIA LTDA
   <a href="https://rocketseat.com.br/" target="blank"> <img align="left" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="Rocketseat" height="30"    width="30" />-> ROCKETSEAT
  </a> 
  
- - 🚀Ddados da Next Level Week #4 
+ - 🚀Dados da Next Level Week #4 
  - TRILA : <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/>
  - TypeScript
  - SQlite
