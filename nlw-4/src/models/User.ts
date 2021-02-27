@@ -13,10 +13,17 @@ class User {
   @Column()
   email: string;
 
+  @Column()
+  mail_replied: number;
+
+  @Column()
+  classification: string;
+
   @CreateDateColumn()
   created_at: Date;
 
   constructor() {
+    this.mail_replied = 0;
     if (!this.id) {
       this.id = uuid()
     }

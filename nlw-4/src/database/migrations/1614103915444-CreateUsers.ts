@@ -21,6 +21,16 @@ export class CreateUsers1614103915444 implements MigrationInterface {
                         type: "varchar",
                     },
                     {
+                        name: "mail_replied",
+                        type: "number",
+                        isNullable: true
+                    },
+                    {
+                        name: "classification",
+                        type: "varchar",
+                        isNullable: true
+                    },
+                    {
                         name: "created_at",
                         type: "timestamp",
                         default: "now()",

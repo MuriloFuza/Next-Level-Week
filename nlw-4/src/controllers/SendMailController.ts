@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { getCustomRepository } from "typeorm";
 import { SurveysUsersRepository } from "../repositories/SurveysUsersRepository";
-import { SurveysRepository } from "../repositories/SurviesRepository";
+import { SurveysRepository } from "../repositories/SurveysRepository";
 import { UsersRepository } from "../repositories/UsersRepository";
 import SendMailService from '../services/SendMailService';
 import { resolve } from 'path';
@@ -51,7 +51,6 @@ class SendMailController {
 
     if (surveyUserAlreadyExist) {
       variables.id = surveyUserAlreadyExist.id;
-      await SendMailService.execute(email, surveyAlreadyExists.title, variables, npsPath);
       return response.json(surveyUserAlreadyExist)
     }
 

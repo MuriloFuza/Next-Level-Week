@@ -13,7 +13,9 @@ const sendMailController = new SendMailController();
 const answerController = new AnswerController();
 const npsController = new NpsController();
 
-router.post("/users", userController.create);
+router.post('/users', userController.create);
+router.get('/users', userController.showAll);
+router.get('/administrationusers', userController.showUsersActive);
 
 router.post('/surveys', surveyController.create);
 router.get('/surveys', surveyController.show);
