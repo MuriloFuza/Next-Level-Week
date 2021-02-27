@@ -18,6 +18,6 @@ Código pertence a ROCKETSEAT INFORMAÇÃO E TECNOLOGIA LTDA
  - SQlite
  - Virtual Studio Code
  - TypeORM
- - Contribuição minha: Listagem de apenas usuários que repsonderam à alguma pesquisa.Número de pesquisas que o usuário respondeu e a classificação do usuario em relação a suas pesquisas respondidas.(Código imcompleto!)
+ - MissionComplete: Listagem de apenas usuários que repsonderam à alguma pesquisa.Número de pesquisas que o usuário respondeu e a classificação do usuario em relação a suas pesquisas respondidas.
  -->
 
