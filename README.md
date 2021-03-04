@@ -7,17 +7,17 @@ Código pertence a ROCKETSEAT INFORMAÇÃO E TECNOLOGIA LTDA
 ## NLW#4
   Código apresentado por Daniele  
   
- <a href="https://github.com/danileao" target="blank"><img align="left" src="https://avatars.githubusercontent.com/u/5041791?s=460&u=7261e439282198ba0ce42fcfc619631fe989f58c&v=4" alt="Danileao" height="30" width="30" />-> Danilele
+ <a href="https://github.com/danileao" target="blank"><img align="left" src="https://avatars.githubusercontent.com/u/5041791?s=460&u=7261e439282198ba0ce42fcfc619631fe989f58c&v=4" alt="Danileao" height="30" width="30" />-> Daniele
   
   <a href="https://rocketseat.com.br/" target="blank"> <img align="left" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="Rocketseat" height="30"    width="30" />-> ROCKETSEAT
  </a> 
  
  - 🚀Dados da Next Level Week #4 
- - TRILA : <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/>
+ - TRILHA : <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="nodejs"/>
  - TypeScript
- - SQlite
- - Virtual Studio Code
+ - SQLite
+ - Visual Studio Code
  - TypeORM
  - MissionComplete: Listagem de apenas usuários que repsonderam à alguma pesquisa.Número de pesquisas que o usuário respondeu e a classificação do usuario em relação a suas pesquisas respondidas.
- -->
+
 
