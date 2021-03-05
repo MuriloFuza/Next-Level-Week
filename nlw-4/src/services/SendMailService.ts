@@ -9,8 +9,8 @@ class SendMailService {
       host: 'smtp.mailtrap.io',
       port: 2525,
       auth: {
-        user: 'f34b825327a5b8',
-        pass: 'e34ece59f1bedc'
+        user: '--',
+        pass: '--'
       }
     });
 
